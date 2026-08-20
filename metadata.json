@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow Enterprise Task Management",
+  "description": "Comprehensive enterprise task management dashboard with real-time analytics, filtering, team assignments, comments, and external API integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
